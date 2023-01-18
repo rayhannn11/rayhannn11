@@ -7,8 +7,9 @@
 
 - 📫 Contact Me. **rayhan.onepiece@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <img align="right" alt="Coding" width="400" src="https://aderoni.com/wp-content/uploads/2022/08/Mengenal-Front-End-Web-Developer.webp">
+
+<h3 align="left">Connect with me:</h3>
 
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rayhan-naufal-arrafi-b02175229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rayhan-naufal-arrafi-b02175229/" height="30" width="40" /></a>
