@@ -10,9 +10,11 @@
 <img align="right" alt="Coding" width="400" src="https://aderoni.com/wp-content/uploads/2022/08/Mengenal-Front-End-Web-Developer.webp">
 
 <h3 align="left">My Website Project:</h3>
+<h4 align="left">Ecommerce-Clone (Skripsi): https://sneaker-shoes.vercel.app/</h4>
 <h4 align="left">Messenger-Clone: https://next-messenger-clone-delta.vercel.app/</h4>
 <h4 align="left">Twitch-Clone: https://streamhub-next.vercel.app/</h4>
-<h4 align="left">Spotify-Clone: https://next14-spotify.vercel.app/</h4>
+<h4 align="left">Spotify-Clone: https://next14-spotify.vercel.app/</h4> 
+<h4 align="left">Notion-Clone: https://next-notion-clone.vercel.app/</h4>
 
 <h3 align="left">Connect with me:</h3>
 
