@@ -3,7 +3,7 @@
 
 - 🌱 programming skills that I have learned **HTML,CSS,JS,React,Vue,Ts,Figma,Selenium,Jest,Cypress,Puppeteer,Appium,Kation,Jira,ETC..**
 
-- 💬 Ask me about **Front End,QA Automation,Project Management**
+- 💬 Ask me about **Project Management, Front End, Back End, QA Automation**
 
 - 📫 Contact Me. **rayhan.onepiece@gmail.com**
 
@@ -12,8 +12,7 @@
 <h3 align="left">My Website Project:</h3>
 <h4 align="left">Ecommerce-Clone (Skripsi): https://sneaker-shoes.vercel.app/</h4>
 <h4 align="left">Messenger-Clone: https://next-messenger-clone-delta.vercel.app/</h4>
-<h4 align="left">Twitch-Clone: https://streamhub-next.vercel.app/</h4>
-<h4 align="left">Spotify-Clone: https://next14-spotify.vercel.app/</h4> 
+<h4 align="left">Spotify-Clone: https://spotify-clone-ebon-three.vercel.app/</h4> 
 <h4 align="left">Notion-Clone: https://next-notion-clone.vercel.app/</h4>
 
 <h3 align="left">Connect with me:</h3>
