@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rayhan Naufal Arrafi</h1>
 <h3 align="center">A developer from Indonesia.</h3>
 
-- 🌱 programming skills that I have learned **HTML,CSS,JS,React,Vue,Ts,Figma,Selenium,Jest,Cypress,Puppeteer,Appium,Kation,Jira,ETC..**
+- 🌱 programming skills that I have learned **HTML,CSS,JS,React,Vue,Ts,PHP,Laravel,Next,Nuxt,Figma,Selenium,Jest,Cypress,Jira,ETC..**
 
 - 💬 Ask me about **Project Management, Front End, Back End, QA Automation**
 
-- 📫 Contact Me. **rayhan.onepiece@gmail.com**
+- 📫 Contact Me. **rayhanarrafi1107@gmail.com**
 
 <img align="right" alt="Coding" width="400" src="https://aderoni.com/wp-content/uploads/2022/08/Mengenal-Front-End-Web-Developer.webp">
 
@@ -18,8 +18,8 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rayhan-naufal-arrafi-b02175229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rayhan-naufal-arrafi-b02175229/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/rayhan_arrafi/?next=%2f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/rayhan_arrafi/?next=%2f" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/rayhan-naufal-arrafi-b02175229/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rayhan-naufal-arrafi-b02175229/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/rayhan_arrafi/?next=%2f" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/rayhan_arrafi/?next=%2f" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
