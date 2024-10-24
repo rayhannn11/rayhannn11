@@ -9,10 +9,10 @@
 - 📫 How to reach me **rayhanarrafi1107@gmail.com**
 
 <h3 align="left">My Website Project</h3>
-<p align="left">Ecommerce-Clone (Skripsi): <a href="<a href="https://sneaker-shoes.vercel.app/" target="blank">">https://sneaker-shoes.vercel.app/</a></p>
-<p align="left">Messenger-Clone: <a href="<a href="https://next-messenger-clone-delta.vercel.app/" target="blank">">https://next-messenger-clone-delta.vercel.app/</a></p>
-<p align="left">Spotify-Clone: <a href="<a href="https://spotify-clone-ebon-three.vercel.app/" target="blank">">https://spotify-clone-ebon-three.vercel.app/</a></p>
-<p align="left">Notion-Clone: <a href="<a href="https://next-notion-clone.vercel.app/" target="blank">">https://next-notion-clone.vercel.app/</a></p>
+<p align="left">Ecommerce-Clone (Skripsi): <a href="https://sneaker-shoes.vercel.app/"target="blank">https://sneaker-shoes.vercel.app/</a></p>
+<p align="left">Messenger-Clone: <a href="https://next-messenger-clone-delta.vercel.app/" target="blank">https://next-messenger-clone-delta.vercel.app/</a></p>
+<p align="left">Spotify-Clone: <a href="https://spotify-clone-ebon-three.vercel.app/" target="blank">https://spotify-clone-ebon-three.vercel.app/</a></p>
+<p align="left">Notion-Clone: <a href="https://next-notion-clone.vercel.app/" target="blank">https://next-notion-clone.vercel.app/</a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
