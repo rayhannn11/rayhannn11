@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Web developer from Indonesia</h3>
 
 - 🌱 I’m currently learning **HTML,CSS,JS,React,Vue,Ts,Java,PHP,Laravel,Next,Nuxt,Figma,Selenium,Jest,Cypress,Jira**
 
@@ -9,7 +9,7 @@
 - 📫 How to reach me **rayhanarrafi1107@gmail.com**
 
 <h3 align="left">My Website Project</h3>
-<p align="left">Ecommerce-Clone (Skripsi): <a href="https://sneaker-shoes.vercel.app/"target="_blank">https://sneaker-shoes.vercel.app/</a></p>
+<p align="left">Ecommerce-Clone (Skripsi): <a href="https://sneaker-shoes.vercel.app/" target="_blank">https://sneaker-shoes.vercel.app/</a></p>
 <p align="left">Messenger-Clone: <a href="https://next-messenger-clone-delta.vercel.app/" target="_blank">https://next-messenger-clone-delta.vercel.app/</a></p>
 <p align="left">Spotify-Clone: <a href="https://spotify-clone-ebon-three.vercel.app/" target="_blank">https://spotify-clone-ebon-three.vercel.app/</a></p>
 <p align="left">Notion-Clone: <a href="https://next-notion-clone.vercel.app/" target="_blank">https://next-notion-clone.vercel.app/</a></p>
